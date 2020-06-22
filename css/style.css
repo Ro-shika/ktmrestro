@@ -1,0 +1,21 @@
+h1,
+h2,
+h3 {
+    font-family: 'Kaushan Script', cursive;
+}
+
+.bg-black {
+    background-color: #000;
+}
+
+.navbar-brand {
+    height: 70px;
+}
+
+.navbar-brand img {
+    height: 100%;
+}
+
+.font-primary {
+    font-family: 'Kaushan Script', cursive;
+}
